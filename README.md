@@ -1,4 +1,12 @@
-## How to start the demo app
+## gainZee
+
+gainZee is a smart AI fitness trainer designed with Gen Z in mind. It takes in information specific to you and creates a personalized workout plan. Then GainZee, your fitness trainer, follows you as you work out. You can modify the workout to reflect your fitness status, such as telling GainZee if you feel too tired at a given point.
+
+Built with the Dasha.AI SDK.
+
+Watch the demo video here https://youtu.be/bXcX4dcWpM4
+
+## How to run
 
 1. Login to dasha account via `npx dasha account login`
 2. Make `npm i` to install dependencies
