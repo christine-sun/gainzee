@@ -1,8 +1,8 @@
 ## gainZee
 
-gainZee is a smart AI fitness trainer designed with Gen Z in mind. It takes in information specific to you and creates a personalized workout plan. Then GainZee, your fitness trainer, follows you as you work out. You can modify the workout to reflect your fitness status, such as telling GainZee if you feel too tired at a given point.
+gainZee is a smart AI fitness trainer designed with Gen Z in mind. It takes in information specific to you and creates a personalized workout plan. Then GainZee, your fitness trainer, follows you as you work out. You can modify the workout to reflect your fitness status, such as telling gainZee if you feel too tired at a given point.
 
-Built with the Dasha.AI SDK.
+Built with the Dasha.AI SDK for HackPrinceton '21 team Glen Liu, Christine Sun, and Dhruvam Zaveri.
 
 Watch the demo video here https://youtu.be/bXcX4dcWpM4
 
